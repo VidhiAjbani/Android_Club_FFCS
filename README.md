@@ -9,5 +9,5 @@ npm install or yarn add
 npx react-native run-android
 ```
 ### **Screen Shots**
-  <img src= "https://raw.githubusercontent.com/VidhiAjbani/Android_Club_FFCS/master/img/Login_page.jpeg" width="40%" height="500">
-  <img src= "https://raw.githubusercontent.com/VidhiAjbani/Android_Club_FFCS/master/img/Password_encryption.jpeg"  width="40%" height="500">
+  <img src= "https://raw.githubusercontent.com/VidhiAjbani/Android_Club_FFCS/master/img/Login_page.jpeg" width="40%" height="600">
+  <img src= "https://raw.githubusercontent.com/VidhiAjbani/Android_Club_FFCS/master/img/Password_encryption.jpeg"  width="40%" height="600">
