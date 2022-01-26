@@ -3,7 +3,6 @@
 ### Run Procedure
 ##### Issue these commands on your favourite terminal
 ```
-git clone https://github.com/shivam-akhouri/ffcs-AC.git 
 cd (to the created directory) 
 npm install or yarn add
 npx react-native run-android
